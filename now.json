@@ -2,7 +2,7 @@
   "version": 2,
   "name": "asperitas",
   "env": {
-    "DATABASE_URL": ""
+    "DATABASE_URL": "@mongodb://admin:<password>@SG-123-24614.servers.mongodirector.com:27017/admin"
   },
   "builds": [
     { "src": "client/package.json", "use": "@now/static-build" },
