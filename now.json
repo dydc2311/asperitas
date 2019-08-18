@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "name": "asperitas",
+  "name": "101",
   "env": {
     "DATABASE_URL": "@mongodb://admin:<password>@SG-123-24614.servers.mongodirector.com:27017/admin"
   },
