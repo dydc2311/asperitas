@@ -2,7 +2,7 @@
   "version": 2,
   "name": "101",
   "env": {
-    "DATABASE_URL": "@mongodb://admin:OKmwB6MrGTQIR0FM@SG-123-24614.servers.mongodirector.com:27017/admin"
+    "DATABASE_URL": "@mongodb://admin:OKmwB6MrGTQIR0FM@SG-123-24614.servers.mongodirector.com:27017"
   },
   "builds": [
     { "src": "client/package.json", "use": "@now/static-build" },
