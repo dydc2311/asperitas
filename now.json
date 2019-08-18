@@ -2,7 +2,7 @@
   "version": 2,
   "name": "asperitas",
   "env": {
-    "DATABASE_URL": "@database-url"
+    "DATABASE_URL": ""
   },
   "builds": [
     { "src": "client/package.json", "use": "@now/static-build" },
